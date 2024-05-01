@@ -10,9 +10,9 @@ const projectsData = [
     title: "SellProGPT",
     description:
       "Online selling platform. Users can upload their products to sell, and they will be available for buying after admin approval. Auth, admin and user dashboard, and many other features.",
-    image: "/images/projects/1.png",
+    image: "/images/projects/sellpro.jpg",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/devro45/SellProGPT",
     previewUrl: "/",
   },
   {
